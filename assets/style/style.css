@@ -6,3 +6,37 @@
 .two{
     color: red;
 }
+
+.nav-link:hover{
+    border-bottom: 1px solid red;
+}
+
+.nav-link:active{
+    border-bottom: 1px solid red;
+    font-size: 18px;
+    
+}
+
+.menu{
+    border: 1px solid;
+    text-align: center;
+    
+}
+ th{
+    border: 1px solid;
+    
+ }
+
+ td{
+    border: 1px solid;
+    
+ }
+
+ tr{
+    border: 1px solid;
+    padding: 5px;
+ }
+
+ th,td{
+    padding: 10px;
+ }
