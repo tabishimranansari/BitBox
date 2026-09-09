@@ -1,18 +1,24 @@
 
 
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
 .one{
-    color: red;
+    color: #ffbb00;
 }
 .two{
-    color: red;
+    color: #ffbb00;
 }
 
 .nav-link:hover{
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid #ffbb00;
 }
 
 .nav-link:active{
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid #ffbb00;
     font-size: 18px;
     
 }
